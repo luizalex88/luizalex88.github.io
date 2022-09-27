@@ -17,8 +17,8 @@ body {
 .avatar {
     width: 80px;
     border-radius: 50%;
-    border: 3px solid white;
-    box-shadow: 0 0 20px white;
+    border: 2px solid rgb(168, 230, 225);
+    box-shadow: 0 0 20px rgb(3, 239, 252);
 }
 
 h1 {
@@ -46,6 +46,8 @@ h2 {
 
 .social img {
     width: 33px;
+    box-shadow: 0 0 10px rgb(3, 239, 252);
+    border-radius: 50%;
 }
 
 .links-list {
@@ -62,7 +64,7 @@ h2 {
     background: white;
     padding: 15px 20px;
     border-radius: 5px;
-    box-shadow: 0 0 20px white;
+    box-shadow: 0 0 20px rgb(3, 239, 252);
     text-decoration: none;
     color: rgb(54,77,204);
     font-weight: bold;
